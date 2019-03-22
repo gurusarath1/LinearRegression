@@ -80,7 +80,7 @@ class LinearRegression:
 
 
 
-linR = LinearRegression('ex1data1.txt')
+linR = LinearRegression('ex1data1.csv')
 
 plt.ion()
 plt.figure()
